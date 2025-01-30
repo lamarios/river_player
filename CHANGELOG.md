@@ -1,3 +1,9 @@
+# 0.1.4
+
+* Merged (https://github.com/RevEngine3r/river_player/pull/15)
+* Merged (https://github.com/RevEngine3r/river_player/pull/12)
+* Deprecation fixed.
+
 # 0.1.3
 
 * Links fixed.
